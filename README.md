@@ -58,7 +58,7 @@ This repository contains the Sales Analytics Report for AtliQ Hardware, focusing
  
  1. Product-wise Sales Analysis: Detailed breakdown of sales performance by product category, helping identify top-selling products and underperformers.
  2. Region-wise Sales Insights: Analyzes sales performance across different geographic regions to spot high-potential markets and areas for improvement.
- 3. Market Perfomance vs Target Insights
+ 3. Market Performance vs Target Insights
    
 **Project objective:** 
 
