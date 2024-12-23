@@ -64,7 +64,7 @@ This repository contains the Sales Analytics Report for AtliQ Hardware, focusing
 
   **1.** Create a Customer Perfomance Report
 
-  **2.** Create Market Perfomance vs Target Report
+  **2.** Create Market Performance vs Target Report
   
   **3.** Division Report
   
